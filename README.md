@@ -2,7 +2,7 @@
 ![Portada bio](https://github.com/user-attachments/assets/486add00-89a7-4476-bf5b-099ea9a50edb)
 # 🌐 Bienvenido a este camino por el mundo de las Aplicaciones WEB 🌐
 
-¡Hola! Soy una apasionada desarrolladora de la Región de Valparaíso, Chile. Este repositorio documenta mi viaje en el fascinante mundo del desarrollo web, y me encantaría que me acompañes en esta aventura.
+¡Hola! Soy una apasionada desarrolladora de la Región de Valparaíso, Chile. Becada por Talento Digital. Este repositorio documenta mi viaje en el fascinante mundo del desarrollo web, y me encantaría que me acompañes en esta aventura.
 
 ## 🚀 Sobre mí
 
